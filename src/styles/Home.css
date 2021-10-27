@@ -1,0 +1,13 @@
+.home {
+  padding: 50px 0;
+}
+.title h5 {
+  font-size: 20px;
+}
+.healthTips {
+  width: 50%;
+  margin: 0 auto;
+}
+.healthTips table {
+  border-collapse: collapse;
+}

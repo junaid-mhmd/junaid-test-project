@@ -1,0 +1,29 @@
+.login {
+  padding: 50px 0;
+}
+.loginBox {
+  margin: 0 auto;
+  width: 40%;
+}
+.loginBox input {
+  height: 60px;
+  border: 1px solid #000;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  background-color: #fff;
+  color: #000;
+  outline: 0;
+  width: 100%;
+  padding: 0 10px;
+  font-size: 16px;
+  font-size: 16px;
+}
+.loginBox button {
+  background-color: #000;
+  height: 60px;
+  border-radius: 6px;
+  width: 150px;
+  color: #fff;
+  border: 0;
+  cursor: pointer;
+}
